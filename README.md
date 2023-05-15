@@ -1,2 +1,2 @@
-# glassy-flute-portfolio.github.io
+# Glassyflute-portfolio
 website portfolio
